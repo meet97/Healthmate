@@ -1,0 +1,8 @@
+/dist/
+*.class
+nbproject/private/private.properties
+src/java/hibernate.cfg.xml
+build/web/WEB-INF/classes/META-INF/persistence.xml
+build/web/WEB-INF/classes/.netbeans_update_resources
+build/web/WEB-INF/classes/.netbeans_automatic_build
+build/web/WEB-INF/classes/hibernate.cfg.xml
